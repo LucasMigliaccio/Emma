@@ -4,6 +4,7 @@ The project allows users to control their computer using hand gestures through a
 
 Emma was created as an experimental interface inspired by futuristic human-computer interaction systems, with the goal of making computer control more natural, accessible and extensible.
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Emma es un sistema open source de control por gestos desarrollado con Python, OpenCV y MediaPipe.
 
